@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100vh !important;
+  width: 100% !important;
+  min-width: 100% !important;
+  overlay-y: none !important;
+  scrollbar-width: none;
+  background: linear-gradient(to bottom right, #0a192f, #020c1b) !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+}
