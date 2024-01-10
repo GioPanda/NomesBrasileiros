@@ -18,6 +18,9 @@ O projeto **Nomes Brasileiros** é uma aplicação web desenvolvida em React, Ty
 - **TailwindCSS:** Framework CSS utilitário para estilização rápida e consistente.
 - **React Router:** Biblioteca para roteamento de páginas no React.
 
+![Preview do site](https://raw.githubusercontent.com/GioPanda/NomesBrasileiros/main/Nomes%20Brasileiros.png)
+
+
 ## Instalação e Uso
 
 Siga estes passos para executar o projeto localmente:
