@@ -34,6 +34,6 @@ Contribuições são bem-vindas 🤗️🤗️ Sinta-se à vontade para abrir is
 
 ## Autores
 
-Este projeto foi criado por [Seu Nome]((https://github.com/GioPanda)).
+Este projeto foi criado por [Giovanna Santos](https://github.com/GioPanda).
 
 
